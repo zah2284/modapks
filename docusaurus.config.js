@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Empire Mod APK',
+  tagline: 'The Best Mod apk Platform for your best games and apps.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -8,9 +8,9 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Empire Mod APK',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Empire Mod APKs',
         src: 'img/logo.svg',
       },
       links: [
